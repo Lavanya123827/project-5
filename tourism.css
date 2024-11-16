@@ -1,0 +1,27 @@
+@import url('https://fonts400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?t=st=1722696280~exp=1722699880~hmac=ced9e9c6a60eebe794b03213c9eb8cdb134ab5ad4c1ec877543b62e240477793&w=996");
+    text-align: center;
+    height: 80vh;
+    background-size: cover;
+
+}
+
+.main-heading {
+    color: green;
+    font-family: "roboto";
+    font-size: 35;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph {
+    color: blue;
+    font-family: "lobster";
+    font-size: 22;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
